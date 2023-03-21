@@ -10,6 +10,6 @@ Nesse projeto foi apresentado de forma simples e direta algumas funcionalidades 
 -`CSS`: Tem papel fundamental para indicar a interação do usuário com a interface gráfica.
 
 ### 📁 Acesso ao projeto
-https://primeiroportfolio-weld.vercel.app/ 
+https://ladingsimplesaluraplus.vercel.app/
 
 <img src="https://user-images.githubusercontent.com/125527244/226513514-f7037622-5d42-46b1-b065-efcab1e57d50.png" width="60%">
