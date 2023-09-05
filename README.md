@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/125527244/226513617-a3ba2021-01a6-43b8-9753-693730b07649.jpg">
+<img src="https://github.com/nestto/landingsimplesaluraplus/assets/125527244/4b2926e2-0592-46cc-a1ee-f6e6dd98d011">
 
 Desenvolvido com o curso de HTML e CSS da Alura.
 ### 🔨 Funcionalidades do projeto
